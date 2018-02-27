@@ -7,8 +7,9 @@ while [ true ]
 do
     cursize=$(du -b $monitorfile | awk '{print($1)}')
     if [ $cursize -ne $lastsize ]; then
+	git commit -m 'fix' $monitorfile
         git push origin
-        lastsize=cursize
+        lastsize=$cursize
     fi
     sleep 10
 done
