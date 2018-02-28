@@ -1,1 +1,2 @@
 - [Wusuluren/mypocket-bookmarks](https://github.com/Wusuluren/mypocket-bookmarks)
+- [XMLHttpRequest.send() - Web API 接口 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/XMLHttpRequest/send)
