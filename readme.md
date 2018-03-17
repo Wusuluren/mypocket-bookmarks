@@ -10,3 +10,4 @@
 - [解决github提交commit,contributions不统计显示绿色的问题 - 洛洛爱吃肉 - 博客园](https://www.cnblogs.com/dongliu/p/5782329.html)
 - [K-Pop Stars In Sports - Coub](https://coub.com/stories/4608-k-pop-stars-in-sports)
 - [思起](https://blog.aofall.com/page/1/)
+- [百度搜索语法大全 - CSDN博客](http://blog.csdn.net/longzhiwen888/article/details/46562261)
