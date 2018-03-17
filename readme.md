@@ -11,3 +11,4 @@
 - [K-Pop Stars In Sports - Coub](https://coub.com/stories/4608-k-pop-stars-in-sports)
 - [思起](https://blog.aofall.com/page/1/)
 - [百度搜索语法大全 - CSDN博客](http://blog.csdn.net/longzhiwen888/article/details/46562261)
+- [高级搜索](https://www.baidu.com/gaoji/advanced.html)
