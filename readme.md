@@ -16,3 +16,4 @@
 - [base64 转图片 在线解码编码](http://base64.xpcha.com/)
 - [*无名小卒* - CSDN博客](http://blog.csdn.net/guogangj/article/category/182179)
 - [打代码的怪兽 CodeMonster](https://www.codemonster.cn/)
+- [Online calculator: Caesar cipher](http://planetcalc.com/1434/)
