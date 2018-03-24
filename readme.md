@@ -17,3 +17,4 @@
 - [*无名小卒* - CSDN博客](http://blog.csdn.net/guogangj/article/category/182179)
 - [打代码的怪兽 CodeMonster](https://www.codemonster.cn/)
 - [Online calculator: Caesar cipher](http://planetcalc.com/1434/)
+- [superl's blog - 挑战无处不在，每天都要学习一些新东西](http://www.superl.org/)
