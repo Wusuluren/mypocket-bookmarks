@@ -18,3 +18,4 @@
 - [打代码的怪兽 CodeMonster](https://www.codemonster.cn/)
 - [Online calculator: Caesar cipher](http://planetcalc.com/1434/)
 - [superl's blog - 挑战无处不在，每天都要学习一些新东西](http://www.superl.org/)
+- [edu邮箱申请 免费edu邮箱 免费edu信箱](http://my.art.edu.lv/)
