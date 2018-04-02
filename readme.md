@@ -19,3 +19,4 @@
 - [Online calculator: Caesar cipher](http://planetcalc.com/1434/)
 - [superl's blog - 挑战无处不在，每天都要学习一些新东西](http://www.superl.org/)
 - [edu邮箱申请 免费edu邮箱 免费edu信箱](http://my.art.edu.lv/)
+- [NTAPI Undocumented Functions](http://undocumented.ntinternals.net/index.html?page=UserMode%2FUndocumented%20Functions%2FNT%20Objects%2FThread%2FTEB.html)
