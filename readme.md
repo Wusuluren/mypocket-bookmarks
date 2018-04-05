@@ -20,3 +20,4 @@
 - [superl's blog - 挑战无处不在，每天都要学习一些新东西](http://www.superl.org/)
 - [edu邮箱申请 免费edu邮箱 免费edu信箱](http://my.art.edu.lv/)
 - [NTAPI Undocumented Functions](http://undocumented.ntinternals.net/index.html?page=UserMode%2FUndocumented%20Functions%2FNT%20Objects%2FThread%2FTEB.html)
+- [TensorFlow手把手入门之 -- TensorFlow保存还原模型的正确方式，Saver的save和restore方法，亲测可用 | David 9的博客 --- 不怕"过拟合"](http://nooverfit.com/wp/tensorflow%E6%89%8B%E6%8A%8A%E6%89%8B%E5%85%A5%E9%97%A8%E4%B9%8B-tensorflow%E4%BF%9D%E5%AD%98%E8%BF%98%E5%8E%9F%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E5%BC%8F%EF%BC%8Csaver%E7%9A%84/)
