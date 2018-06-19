@@ -39,3 +39,4 @@
 - [Source code - Projects - Cprogramming.com](https://www.cprogramming.com/cgi-bin/source/source.cgi?action=Category&CID=7)
 - [开发者必备的6款源码搜索引擎_Focustc_新浪博客](http://blog.sina.com.cn/s/blog_631d3a630101i089.html)
 - [看雪学院](https://www.kanxue.com/chm.htm?id=5301&pid=node1000914)
+- [win32获取窗口在屏幕的位置的实现分析-Windows-操作系统-C++技术网](http://www.cjjjs.com/paper/czxt/201611322107225.aspx)
