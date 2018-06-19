@@ -42,3 +42,4 @@
 - [win32获取窗口在屏幕的位置的实现分析-Windows-操作系统-C++技术网](http://www.cjjjs.com/paper/czxt/201611322107225.aspx)
 - [跟我一起玩Win32开发（22）：抓取屏幕 - CSDN博客](https://blog.csdn.net/tcjiaan/article/details/8727226)
 - [RemoteControlSystem/ScreenDisplay.cpp at master · xiongxiang/RemoteControlSystem](https://github.com/xiongxiang/RemoteControlSystem/blob/master/RemoteCtrolSystem/Graphic/ScreenDisplay.cpp)
+- [RMDS/RMDSDlg.cpp at master · UMRhamster/RMDS](https://github.com/UMRhamster/RMDS/blob/master/RMDS/RMDSDlg.cpp)
