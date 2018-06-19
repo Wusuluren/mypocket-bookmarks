@@ -44,3 +44,4 @@
 - [RemoteControlSystem/ScreenDisplay.cpp at master · xiongxiang/RemoteControlSystem](https://github.com/xiongxiang/RemoteControlSystem/blob/master/RemoteCtrolSystem/Graphic/ScreenDisplay.cpp)
 - [RMDS/RMDSDlg.cpp at master · UMRhamster/RMDS](https://github.com/UMRhamster/RMDS/blob/master/RMDS/RMDSDlg.cpp)
 - [ScreenMonitor/ScreenSpyDlg.cpp at master · chenboo/ScreenMonitor](https://github.com/chenboo/ScreenMonitor/blob/master/Monitor/ScreenSpyDlg.cpp)
+- [深度系统监视器原理剖析 - 简书](https://www.jianshu.com/p/deb0ed35c1c2)
