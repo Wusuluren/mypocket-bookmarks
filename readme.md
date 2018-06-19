@@ -43,3 +43,4 @@
 - [跟我一起玩Win32开发（22）：抓取屏幕 - CSDN博客](https://blog.csdn.net/tcjiaan/article/details/8727226)
 - [RemoteControlSystem/ScreenDisplay.cpp at master · xiongxiang/RemoteControlSystem](https://github.com/xiongxiang/RemoteControlSystem/blob/master/RemoteCtrolSystem/Graphic/ScreenDisplay.cpp)
 - [RMDS/RMDSDlg.cpp at master · UMRhamster/RMDS](https://github.com/UMRhamster/RMDS/blob/master/RMDS/RMDSDlg.cpp)
+- [ScreenMonitor/ScreenSpyDlg.cpp at master · chenboo/ScreenMonitor](https://github.com/chenboo/ScreenMonitor/blob/master/Monitor/ScreenSpyDlg.cpp)
