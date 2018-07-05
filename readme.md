@@ -58,3 +58,8 @@
 - [菜鸟技术团队全栈化（开发全栈前端）之路](http://www.infoq.com/cn/presentations/all-stack-of-the-cainiao-technology-team)
 - [一篇绝对详细的手工构造PE文件教程 - CSDN博客](https://blog.csdn.net/cosmoslife/article/details/17252757)
 - [快速上手 — Requests 2.18.1 文档](http://docs.python-requests.org/zh_CN/latest/user/quickstart.html)
+- [GitCorp Flow - 安居客Git开发流程规范 - Erning.write()](http://erning.net/blog/2012/11/02/gitflow-at-anjuke-inc/)
+- [最新域名优惠码_国外免费空间_便宜vps推荐_最新VPS教程_张小三资源网](http://www.zxsdw.com/)
+- [首页 - 教程中心 - 阿里云](https://www.aliyun.com/jiaocheng/)
+- [专栏：Flutter教程 - CSDN博客](https://blog.csdn.net/column/details/13593.html?&page=4)
+- [【教程、无技术含量】简单的油猴脚本编写教程 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn](https://www.52pojie.cn/thread-614101-1-1.html)
