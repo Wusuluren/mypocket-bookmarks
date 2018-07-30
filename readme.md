@@ -104,3 +104,4 @@
 - [Numbers](https://javascript.info/number)
 - [参加饿了么编程马拉松感 -](http://lifeofzjs.com/blog/2015/12/02/eleme-hackathon/)
 - [如何合理地估算线程池大小？ | 并发编程网 – ifeve.com](http://ifeve.com/how-to-calculate-threadpool-size/)
+- [CPU的核心数、线程数的关系和区别 – 金丝燕网](http://swiftlet.net/archives/2236)
