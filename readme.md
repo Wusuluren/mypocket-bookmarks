@@ -106,3 +106,4 @@
 - [如何合理地估算线程池大小？ | 并发编程网 – ifeve.com](http://ifeve.com/how-to-calculate-threadpool-size/)
 - [CPU的核心数、线程数的关系和区别 – 金丝燕网](http://swiftlet.net/archives/2236)
 - [shell脚本分析nginx日志 - 为程序员服务](http://outofmemory.cn/code-snippet/3913/shell-analyze-nginx-log)
+- [Go官方库RPC开发指南 - Go语言中文网 - Golang中文社区](https://studygolang.com/articles/8497)
