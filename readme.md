@@ -107,3 +107,4 @@
 - [CPU的核心数、线程数的关系和区别 – 金丝燕网](http://swiftlet.net/archives/2236)
 - [shell脚本分析nginx日志 - 为程序员服务](http://outofmemory.cn/code-snippet/3913/shell-analyze-nginx-log)
 - [Go官方库RPC开发指南 - Go语言中文网 - Golang中文社区](https://studygolang.com/articles/8497)
+- [如何实现支持数亿用户的长连消息系统 | Golang高并发案例 - CSDN博客](https://blog.csdn.net/bytxl/article/details/47973879)
