@@ -109,3 +109,4 @@
 - [Go官方库RPC开发指南 - Go语言中文网 - Golang中文社区](https://studygolang.com/articles/8497)
 - [如何实现支持数亿用户的长连消息系统 | Golang高并发案例 - CSDN博客](https://blog.csdn.net/bytxl/article/details/47973879)
 - [Clean Architecture using Golang – Elton Minetto – Medium](https://medium.com/@eminetto/clean-architecture-using-golang-b63587aa5e3f)
+- [Go语言构建千万级在线的高并发消息推送系统实践 - CSDN博客](https://blog.csdn.net/GV7lZB0y87u7C/article/details/80269673)
