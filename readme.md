@@ -113,3 +113,4 @@
 - [基于go语言的消息推送系统架构分析 - CSDN博客](https://blog.csdn.net/qinyongbo/article/details/49026897)
 - [精品Mac应用分享推荐 - Awesome Mac](https://wangchujiang.com/awesome-mac/index.zh.html)
 - [https://studygolang.com/pkgdoc](https://studygolang.com/pkgdoc)
+- [https://mp.weixin.qq.com/debug/wxadoc/dev/api/network-request.html](https://mp.weixin.qq.com/debug/wxadoc/dev/api/network-request.html)
