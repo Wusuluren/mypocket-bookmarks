@@ -116,3 +116,4 @@
 - [https://mp.weixin.qq.com/debug/wxadoc/dev/api/network-request.html](https://mp.weixin.qq.com/debug/wxadoc/dev/api/network-request.html)
 - [https://mp.weixin.qq.com/s/mcTDrnmEXmfwfNppgSBsqQ](https://mp.weixin.qq.com/s/mcTDrnmEXmfwfNppgSBsqQ)
 - [promise、async和await之执行顺序的那点事 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000015057278?utm_source=index-hottest)
+- [Go文件命名规范 - Go中国技术社区 - golang](https://gocn.vip/question/182)
