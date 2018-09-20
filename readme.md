@@ -118,3 +118,4 @@
 - [promise、async和await之执行顺序的那点事 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000015057278?utm_source=index-hottest)
 - [Go文件命名规范 - Go中国技术社区 - golang](https://gocn.vip/question/182)
 - [http://blog.cydu.net/weidesign/2012/09/09/weibo-counter-service-design-2/](http://blog.cydu.net/weidesign/2012/09/09/weibo-counter-service-design-2/)
+- [Go语言的传参和传引用[转] - CSDN博客](https://blog.csdn.net/future_challenger/article/details/48438017)
