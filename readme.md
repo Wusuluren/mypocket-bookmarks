@@ -122,3 +122,4 @@
 - [Redis · springside/springside4 Wiki](https://github.com/springside/springside4/wiki/redis)
 - [Redis几个认识误区 – 后端技术 by Tim Yang](https://timyang.net/data/redis-misunderstanding/)
 - [当然我在扯淡](http://www.yinwang.org/)
+- [Recent Pages - 许式伟的个人空间](http://xushiwei.com/system:recent-pages)
