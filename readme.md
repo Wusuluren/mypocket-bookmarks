@@ -121,3 +121,4 @@
 - [Go语言的传参和传引用[转] - CSDN博客](https://blog.csdn.net/future_challenger/article/details/48438017)
 - [Redis · springside/springside4 Wiki](https://github.com/springside/springside4/wiki/redis)
 - [Redis几个认识误区 – 后端技术 by Tim Yang](https://timyang.net/data/redis-misunderstanding/)
+- [当然我在扯淡](http://www.yinwang.org/)
