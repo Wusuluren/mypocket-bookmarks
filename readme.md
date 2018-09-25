@@ -124,3 +124,4 @@
 - [当然我在扯淡](http://www.yinwang.org/)
 - [Recent Pages - 许式伟的个人空间](http://xushiwei.com/system:recent-pages)
 - [张宴的博客 - Web系统架构与底层研发](http://zyan.cc/)
+- [千万级规模高性能、高并发的网络架构经验分享 - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/5048099.html?utm_source=tuicool&utm_medium=referral)
