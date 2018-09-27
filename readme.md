@@ -127,3 +127,4 @@
 - [千万级规模高性能、高并发的网络架构经验分享 - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/5048099.html?utm_source=tuicool&utm_medium=referral)
 - [Go Details 101 - Go 101 (Golang Knowledgebase)](https://go101.org/article/details.html)
 - [SQL解析在美团的应用 -](https://tech.meituan.com/SQL_parser_used_in_mtdp.html)
+- [MySQL源代码：从SQL语句到MySQL内部对象 - Database, Cloud Computing and Life](http://www.orczhou.com/index.php/2012/11/mysql-innodb-source-code-optimization-1/)
