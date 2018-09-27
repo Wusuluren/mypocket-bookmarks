@@ -128,3 +128,4 @@
 - [Go Details 101 - Go 101 (Golang Knowledgebase)](https://go101.org/article/details.html)
 - [SQL解析在美团的应用 -](https://tech.meituan.com/SQL_parser_used_in_mtdp.html)
 - [MySQL源代码：从SQL语句到MySQL内部对象 - Database, Cloud Computing and Life](http://www.orczhou.com/index.php/2012/11/mysql-innodb-source-code-optimization-1/)
+- [个人经常查阅的网站（顺序无先后，持续更新） - FelixZh - 博客园](https://www.cnblogs.com/felixzh/p/6035892.html)
