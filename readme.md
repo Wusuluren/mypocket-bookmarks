@@ -132,3 +132,4 @@
 - [做开发十年，我总结出了这些开发经验 - 腾讯云+社区 - 博客园](https://www.cnblogs.com/qcloud1001/p/6606060.html#top)
 - [推荐软件 - 在线工具](https://tool.lu/software/?platform=osx)
 - [Categories](http://blog.cyeam.com/categories.html)
+- [微服务实战（四）：微服务化之无状态化与容器化 - DockOne.io](http://dockone.io/article/3682)
