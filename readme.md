@@ -133,3 +133,4 @@
 - [推荐软件 - 在线工具](https://tool.lu/software/?platform=osx)
 - [Categories](http://blog.cyeam.com/categories.html)
 - [微服务实战（四）：微服务化之无状态化与容器化 - DockOne.io](http://dockone.io/article/3682)
+- [linux网络服务器IO模型：prefork和惊群 – 热门技术](https://www.topjishu.com/6939.html)
