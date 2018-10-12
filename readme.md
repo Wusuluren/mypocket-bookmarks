@@ -134,3 +134,4 @@
 - [Categories](http://blog.cyeam.com/categories.html)
 - [微服务实战（四）：微服务化之无状态化与容器化 - DockOne.io](http://dockone.io/article/3682)
 - [linux网络服务器IO模型：prefork和惊群 – 热门技术](https://www.topjishu.com/6939.html)
+- [什么是微服务 - wuxiaobingandbob的专栏 - CSDN博客](https://blog.csdn.net/wuxiaobingandbob/article/details/78642020?locationNum=1&fps=1)
