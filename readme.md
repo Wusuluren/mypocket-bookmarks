@@ -135,3 +135,4 @@
 - [微服务实战（四）：微服务化之无状态化与容器化 - DockOne.io](http://dockone.io/article/3682)
 - [linux网络服务器IO模型：prefork和惊群 – 热门技术](https://www.topjishu.com/6939.html)
 - [什么是微服务 - wuxiaobingandbob的专栏 - CSDN博客](https://blog.csdn.net/wuxiaobingandbob/article/details/78642020?locationNum=1&fps=1)
+- [电商中常见的高并发怎么处理？ - Mr.peter - 博客园](https://www.cnblogs.com/peteremperor/p/7341640.html)
