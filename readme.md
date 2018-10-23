@@ -138,3 +138,4 @@
 - [电商中常见的高并发怎么处理？ - Mr.peter - 博客园](https://www.cnblogs.com/peteremperor/p/7341640.html)
 - [电商课题I：集群环境下业务限流 - 旁观者 - 博客园](http://www.cnblogs.com/zhengyun_ustc/archive/2012/11/17/topic1.html)
 - [存档 – 热门技术](https://www.topjishu.com/archive.html)
+- [高并发，分布式系统要点 - 唯一520 - 博客园](https://www.cnblogs.com/weiyi1314/p/7132314.html)
