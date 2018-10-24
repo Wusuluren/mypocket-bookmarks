@@ -140,3 +140,4 @@
 - [存档 – 热门技术](https://www.topjishu.com/archive.html)
 - [高并发，分布式系统要点 - 唯一520 - 博客园](https://www.cnblogs.com/weiyi1314/p/7132314.html)
 - [go里面select-case和time.Ticker的使用注意事项 - wk3368的专栏 - CSDN博客](https://blog.csdn.net/wk3368/article/details/42678497)
+- [每秒处理10万订单的支付架构 - 我是Alvin家鸡鸭鱼的小米米 - CSDN博客](https://blog.csdn.net/u013573133/article/details/48626353)
