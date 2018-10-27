@@ -143,3 +143,4 @@
 - [每秒处理10万订单的支付架构 - 我是Alvin家鸡鸭鱼的小米米 - CSDN博客](https://blog.csdn.net/u013573133/article/details/48626353)
 - [小米网技术架构变迁实践 - just_be_happy的博客 - CSDN博客](https://blog.csdn.net/just_be_happy/article/details/51374982)
 - [技术人必订阅的16个博客与介绍-热门技术](https://www.topjishu.com/5411.html)
+- [Getting Started · Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/#scratch)
