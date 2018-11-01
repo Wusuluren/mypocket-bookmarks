@@ -148,3 +148,4 @@
 - [极客书](https://gitbook.cn/gitchat/geekbook/5bd171f4211d0e68b1b7f75c?geekbookId=5bd171f4211d0e68b1b7f75c&refresh=true)
 - [极客书](https://gitbook.cn/gitchat/geekbook/5bd2cd95211d0e68b1b815cb?geekbookId=5bd2cd95211d0e68b1b815cb&refresh=true)
 - [归档](https://techblog.toutiao.com/archived-posts/)
+- [Xiyou Linux Group博客系统](http://blog.xiyoulinux.org/index.jsp)
