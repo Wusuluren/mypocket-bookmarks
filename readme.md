@@ -152,3 +152,4 @@
 - [中国Linux内核开发者大会](http://www.ckernel.org/)
 - [归档 - 360 OPSDEV](https://www.opsdev.cn/archives/)
 - [使用 client-go 控制原生及拓展的 Kubernetes API | PPT 实录_Kubernetes中文社区](https://www.kubernetes.org.cn/1309.html)
+- [系统架构 | 学习日志](https://blog.haohtml.com/archives/category/architecture)
