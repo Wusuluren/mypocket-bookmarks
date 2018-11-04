@@ -155,3 +155,4 @@
 - [系统架构 | 学习日志](https://blog.haohtml.com/archives/category/architecture)
 - [Docker 核心技术与实现原理](https://draveness.me/docker)
 - [读书笔记： 《亿级流量网站架构核心技术》(开涛的那本) - key_next的博客 - CSDN博客](https://blog.csdn.net/key_next/article/details/80303092)
+- [C/C++协程的简单尝试 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1339815)
