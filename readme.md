@@ -154,3 +154,4 @@
 - [使用 client-go 控制原生及拓展的 Kubernetes API | PPT 实录_Kubernetes中文社区](https://www.kubernetes.org.cn/1309.html)
 - [系统架构 | 学习日志](https://blog.haohtml.com/archives/category/architecture)
 - [Docker 核心技术与实现原理](https://draveness.me/docker)
+- [读书笔记： 《亿级流量网站架构核心技术》(开涛的那本) - key_next的博客 - CSDN博客](https://blog.csdn.net/key_next/article/details/80303092)
