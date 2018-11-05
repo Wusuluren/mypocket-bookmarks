@@ -159,3 +159,4 @@
 - [Go内存模型 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1359184)
 - [【云计算】阿里云产品全景图 - junneyang - 博客园](https://www.cnblogs.com/junneyang/p/5584296.html)
 - [从源码透析gRPC调用原理 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1189548)
+- [微信后端架构摘录 - chenglinhust的专栏 - CSDN博客](https://blog.csdn.net/chdhust/article/details/82793787)
