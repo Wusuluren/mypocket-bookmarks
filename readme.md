@@ -163,3 +163,4 @@
 - [Go database/sql 教程-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/178898?utm_content=m_29337)
 - [https://introcs.cs.princeton.edu/java/home/](https://introcs.cs.princeton.edu/java/home/)
 - [NoSQL漫谈](http://www.nosqlnotes.com/)
+- [酷站 · Ruby China](https://ruby-china.org/sites)
