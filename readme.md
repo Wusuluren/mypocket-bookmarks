@@ -164,3 +164,4 @@
 - [https://introcs.cs.princeton.edu/java/home/](https://introcs.cs.princeton.edu/java/home/)
 - [NoSQL漫谈](http://www.nosqlnotes.com/)
 - [酷站 · Ruby China](https://ruby-china.org/sites)
+- [分布式 - 随笔分类 - David·Li - 博客园](https://www.cnblogs.com/LiJianBlog/category/443420.html)
