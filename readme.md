@@ -170,3 +170,4 @@
 - [小柒2012/spring-boot-seckill - 码云 - 开源中国](https://gitee.com/52itstyle/spring-boot-seckill)
 - [“米粉节”背后的故事——小米网抢购系统开发实践-CSDN.NET](https://www.csdn.net/article/2014-11-07/2822545)
 - [SliceTricks · golang/go Wiki](https://github.com/golang/go/wiki/SliceTricks#push-frontunshift)
+- [XIdea.online Free JetBrains Products License Server.](http://xidea.online/servers.html)
