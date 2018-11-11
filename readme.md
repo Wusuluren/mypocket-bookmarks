@@ -166,3 +166,4 @@
 - [酷站 · Ruby China](https://ruby-china.org/sites)
 - [分布式 - 随笔分类 - David·Li - 博客园](https://www.cnblogs.com/LiJianBlog/category/443420.html)
 - [干货：通过双十一等项目实战看架构技术 - 茶轴的青春 - 博客园](https://www.cnblogs.com/lfs2640666960/p/8624505.html)
+- [如何设计一个秒杀系统 - Heaven Wang 的专栏 - CSDN博客](https://blog.csdn.net/suifeng3051/article/details/52607544)
