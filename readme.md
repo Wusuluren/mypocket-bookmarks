@@ -171,3 +171,4 @@
 - [“米粉节”背后的故事——小米网抢购系统开发实践-CSDN.NET](https://www.csdn.net/article/2014-11-07/2822545)
 - [SliceTricks · golang/go Wiki](https://github.com/golang/go/wiki/SliceTricks#push-frontunshift)
 - [XIdea.online Free JetBrains Products License Server.](http://xidea.online/servers.html)
+- [基于Redis的分布式锁两种实现方式 - chen2013 - 博客园](https://www.cnblogs.com/chenjianxiang/p/8981134.html)
