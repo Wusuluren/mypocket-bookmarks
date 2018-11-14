@@ -172,3 +172,4 @@
 - [SliceTricks · golang/go Wiki](https://github.com/golang/go/wiki/SliceTricks#push-frontunshift)
 - [XIdea.online Free JetBrains Products License Server.](http://xidea.online/servers.html)
 - [基于Redis的分布式锁两种实现方式 - chen2013 - 博客园](https://www.cnblogs.com/chenjianxiang/p/8981134.html)
+- [A proposal for more reliable locks using Redis - <antirez>](http://antirez.com/news/77)
