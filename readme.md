@@ -174,3 +174,4 @@
 - [基于Redis的分布式锁两种实现方式 - chen2013 - 博客园](https://www.cnblogs.com/chenjianxiang/p/8981134.html)
 - [A proposal for more reliable locks using Redis - <antirez>](http://antirez.com/news/77)
 - [博文_魔结天道_新浪博客](http://blog.sina.com.cn/s/articlelist_1610147982_0_1.html)
+- [Tair-淘宝自主开发的一个分布式key/value存储系统 - 吕滔博客](https://lvtao.net/database/tair.html)
