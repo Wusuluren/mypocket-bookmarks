@@ -175,3 +175,4 @@
 - [A proposal for more reliable locks using Redis - <antirez>](http://antirez.com/news/77)
 - [博文_魔结天道_新浪博客](http://blog.sina.com.cn/s/articlelist_1610147982_0_1.html)
 - [Tair-淘宝自主开发的一个分布式key/value存储系统 - 吕滔博客](https://lvtao.net/database/tair.html)
+- [文章列表 | Tony Bai](https://tonybai.com/articles/)
