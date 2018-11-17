@@ -176,3 +176,4 @@
 - [博文_魔结天道_新浪博客](http://blog.sina.com.cn/s/articlelist_1610147982_0_1.html)
 - [Tair-淘宝自主开发的一个分布式key/value存储系统 - 吕滔博客](https://lvtao.net/database/tair.html)
 - [文章列表 | Tony Bai](https://tonybai.com/articles/)
+- [Redis 设计与实现 — Redis 设计与实现](http://redisbook.com/index.html)
