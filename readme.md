@@ -177,3 +177,4 @@
 - [Tair-淘宝自主开发的一个分布式key/value存储系统 - 吕滔博客](https://lvtao.net/database/tair.html)
 - [文章列表 | Tony Bai](https://tonybai.com/articles/)
 - [Redis 设计与实现 — Redis 设计与实现](http://redisbook.com/index.html)
+- [I/O With Go: io.Pipe()](https://garbagecollected.org/2015/05/30/io-with-go-io-pipe/)
