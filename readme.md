@@ -179,3 +179,4 @@
 - [Redis 设计与实现 — Redis 设计与实现](http://redisbook.com/index.html)
 - [I/O With Go: io.Pipe()](https://garbagecollected.org/2015/05/30/io-with-go-io-pipe/)
 - [awk模式详解（通俗易懂，快进来看）、awk pattern详解、awk program详解](http://www.zsythink.net/archives/1426)
+- [kubernetes（K8S）快速安装与配置集群搭建图文教程_linux实验室](https://idc.wanyunshuju.com/K8S/583.html)
