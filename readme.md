@@ -178,3 +178,4 @@
 - [文章列表 | Tony Bai](https://tonybai.com/articles/)
 - [Redis 设计与实现 — Redis 设计与实现](http://redisbook.com/index.html)
 - [I/O With Go: io.Pipe()](https://garbagecollected.org/2015/05/30/io-with-go-io-pipe/)
+- [awk模式详解（通俗易懂，快进来看）、awk pattern详解、awk program详解](http://www.zsythink.net/archives/1426)
