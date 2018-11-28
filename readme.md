@@ -184,3 +184,4 @@
 - [Redis性能优化：使用Lua脚本编程，重写锁](http://mini.eastday.com/mobile/180401180136894.html)
 - [GopherAcademy - Conferences, Training, and Community](https://gopheracademy.com/)
 - [人人都能读懂的编译器原理 - 文章 - 伯乐在线](http://blog.jobbole.com/114466/)
+- [golang gc 优化思路以及实例分析 - Go语言中文网 - Golang中文社区](https://studygolang.com/articles/12751?fr=sidebar)
