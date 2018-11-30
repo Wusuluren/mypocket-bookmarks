@@ -186,3 +186,4 @@
 - [人人都能读懂的编译器原理 - 文章 - 伯乐在线](http://blog.jobbole.com/114466/)
 - [golang gc 优化思路以及实例分析 - Go语言中文网 - Golang中文社区](https://studygolang.com/articles/12751?fr=sidebar)
 - [归档 · shalou的博客](http://licyhust.com/archive/)
+- [兼容go redis cluster的pipeline批量 – 峰云就她了](http://xiaorui.cc/2018/11/03/%e5%85%bc%e5%ae%b9golang-redis-cluster%e7%9a%84pipeline%e6%89%b9%e9%87%8f/)
