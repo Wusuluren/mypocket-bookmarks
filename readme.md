@@ -189,3 +189,4 @@
 - [兼容go redis cluster的pipeline批量 – 峰云就她了](http://xiaorui.cc/2018/11/03/%e5%85%bc%e5%ae%b9golang-redis-cluster%e7%9a%84pipeline%e6%89%b9%e9%87%8f/)
 - [Golang | 行思錄 | Travel Coder](https://liudanking.com/category/golang/)
 - [探究golang的channel和map内存释放问题 – 峰云就她了](http://xiaorui.cc/2018/10/19/%e6%8e%a2%e7%a9%b6golang%e7%9a%84channel%e5%92%8cmap%e5%86%85%e5%ad%98%e9%87%8a%e6%94%be%e9%97%ae%e9%a2%98/)
+- [Archive | crossoverJie's Blog](https://crossoverjie.top/archives/page/2/)
