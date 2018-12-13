@@ -194,3 +194,4 @@
 - [MySQL: Getting Started](https://dev.mysql.com/doc/dev/mysql-server/latest/PAGE_GET_STARTED.html)
 - [NASA回应漫威粉求救，网友：次元墙破裂！](https://baijiahao.baidu.com/s?id=1619463832864596408&wfr=spider&for=pc)
 - [Bash scripting cheatsheet](https://devhints.io/bash)
+- [Advent of Code 2018](https://adventofcode.com/)
