@@ -195,3 +195,4 @@
 - [NASA回应漫威粉求救，网友：次元墙破裂！](https://baijiahao.baidu.com/s?id=1619463832864596408&wfr=spider&for=pc)
 - [Bash scripting cheatsheet](https://devhints.io/bash)
 - [Advent of Code 2018](https://adventofcode.com/)
+- [OS2ATC2018: 会议日程](http://soft.cs.tsinghua.edu.cn/os2atc2018/rc.html)
