@@ -198,3 +198,4 @@
 - [OS2ATC2018: 会议日程](http://soft.cs.tsinghua.edu.cn/os2atc2018/rc.html)
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
 - [Archives | 鸟窝](https://colobu.com/archives/)
+- [全部文章 | MacTalk-池建强的随想录](http://macshuo.com/?page_id=93)
