@@ -199,3 +199,4 @@
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
 - [Archives | 鸟窝](https://colobu.com/archives/)
 - [全部文章 | MacTalk-池建强的随想录](http://macshuo.com/?page_id=93)
+- [react native打包apk时配置gradle阿里云maven仓库加速依赖下载 - pengpengsays - CSDN博客](https://blog.csdn.net/qq_33876553/article/details/79946376)
