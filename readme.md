@@ -201,3 +201,4 @@
 - [全部文章 | MacTalk-池建强的随想录](http://macshuo.com/?page_id=93)
 - [react native打包apk时配置gradle阿里云maven仓库加速依赖下载 - pengpengsays - CSDN博客](https://blog.csdn.net/qq_33876553/article/details/79946376)
 - [归档 | 阿里中间件团队博客](http://jm.taobao.org/archives/)
+- [写扩展性好的代码：函数 - 文章 - 伯乐在线](http://blog.jobbole.com/107442/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
