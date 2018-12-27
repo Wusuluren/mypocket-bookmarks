@@ -204,3 +204,4 @@
 - [写扩展性好的代码：函数 - 文章 - 伯乐在线](http://blog.jobbole.com/107442/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
 - [command center](https://commandcenter.blogspot.com/search?updated-max=2014-08-03T14:55:00-07:00)
 - [reactjs - React-Native 0.52: Metro Bundler has encountered an internal error - Stack Overflow](https://stackoverflow.com/questions/48357335/react-native-0-52-metro-bundler-has-encountered-an-internal-error)
+- [gin xorm框架问题汇总 - qq_33875256的博客 - CSDN博客](https://blog.csdn.net/qq_33875256/article/details/85003911)
