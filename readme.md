@@ -210,3 +210,4 @@
 - [如何实现一个Web Server - STAR 皆空](http://tinylcy.me/2017/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AAWeb-Server/)
 - [dotConferences talks](https://www.dotconferences.com/conference/dotgo)
 - [Functional options for friendly APIs | Dave Cheney](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
+- [归档 | 樂天笔记](https://www.letiantian.me/archives/)
