@@ -211,3 +211,4 @@
 - [dotConferences talks](https://www.dotconferences.com/conference/dotgo)
 - [Functional options for friendly APIs | Dave Cheney](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
 - [归档 | 樂天笔记](https://www.letiantian.me/archives/)
+- [Jiahua Chen, Author at The New Stack](https://thenewstack.io/author/jiahuachen/)
