@@ -213,3 +213,4 @@
 - [归档 | 樂天笔记](https://www.letiantian.me/archives/)
 - [Jiahua Chen, Author at The New Stack](https://thenewstack.io/author/jiahuachen/)
 - [何登成的技术博客](http://hedengcheng.com/)
+- [数据库内核月报](http://mysql.taobao.org/monthly/)
