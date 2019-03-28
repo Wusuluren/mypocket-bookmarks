@@ -214,3 +214,4 @@
 - [Jiahua Chen, Author at The New Stack](https://thenewstack.io/author/jiahuachen/)
 - [何登成的技术博客](http://hedengcheng.com/)
 - [数据库内核月报](http://mysql.taobao.org/monthly/)
+- [MySQL整体逻辑架构 | 聚沙成塔](https://ifengkou.github.io/mysql%E6%95%B4%E4%BD%93%E9%80%BB%E8%BE%91%E6%9E%B6%E6%9E%84.html)
