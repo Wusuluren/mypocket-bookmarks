@@ -218,3 +218,4 @@
 - [Archive » nvie.com](https://nvie.com/posts/)
 - [Go atomic.Value 探究 - 喵叔有话说](https://blog.betacat.io/post/golang-atomic-value-exploration/)
 - [Raft在etcd中的实现 - 喵叔有话说](http://blog.betacat.io/post/raft-implementation-in-etcd/)
+- [面向信仰编程](https://draveness.me/)
